@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/lqhuygt/deploy_ml_api_docker_kubernetes.svg?style=svg)]
+![CircleCI](https://circleci.com/gh/lqhuygt/deploy_ml_api_docker_kubernetes.svg?style=svg)
 
 ## Project Overview
 
